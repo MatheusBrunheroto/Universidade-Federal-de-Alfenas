@@ -8,7 +8,7 @@ int main() {
   scanf("%i", &n);
 
   while (n < 0) {
-    system("clear");
+    system("cls");
     if (n < 0) {
       printf("O valor digitado é inválido, Tente Novamente.\nValor: ");
     } else {
