@@ -2,7 +2,7 @@
 <html>
     <body>
         <hr>
-        <h1 align="center"> Projetos realizados enquanto discente na Universidade Federal de Alfenas.
+        <h1 align="center"> Projetos realizados enquanto discente da Universidade Federal de Alfenas.
             <hr>
             <img src="https://github.com/MatheusBrunheroto/Universidade-Federal-de-Alfenas/assets/67561023/d8e9dc89-2a5e-4185-8b1c-b31ec2ea2714" width = "516px" height = "185px">
         </h1>
